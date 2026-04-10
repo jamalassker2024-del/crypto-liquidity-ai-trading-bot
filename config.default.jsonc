@@ -10,8 +10,7 @@
     The bot's secret passphrase. Create a separate ADM account for the bot.
     Bot's ADM address will correspond to this passPhrase.
   **/
-  "passPhrase": "distance expect praise frequent..",
-
+  "passPhrase": "lamp artwork stage occur fever visa deal cry asthma timber aim poet",
   /**
     List of nodes to fetch transactions.
     If one becomes unavailable, the bot will choose a live one.
@@ -42,7 +41,7 @@
 
   /** ADAMANT accounts to accept commands from. Commands from other accounts will not be executed. **/
   "admin_accounts": [
-    "U123.."
+    "U16150865396338006615"
   ],
 
   /** Notify non-admins that they are not admins. If false, the bot will be silent. **/
